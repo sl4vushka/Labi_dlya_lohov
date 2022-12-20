@@ -1,4 +1,5 @@
-﻿#define _USE_MATH_DEFINES
+//подправить формулу
+#define _USE_MATH_DEFINES
 #include <iostream>
 #include <math.h>
 using namespace std;
